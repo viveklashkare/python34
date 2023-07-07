@@ -1,0 +1,24 @@
+1. Explain binary tree search algorithm.
+
+2. what is interpreted language? why do we use it ?
+3. what is decorator? 
+4. how python code gets executed ? Explain execution. --> When we run python program it first gets compiled and 
+                                       then gets executed line by line.
+5. How memory management is done in python ?
+6. can programmer access private heap space ? is it allowed in python ?
+7. what is module level scope in python ?
+8. common built in data types ? what is range() and xrange() ?
+9. have you worked on threading , GPI ?
+10. what is recursion ?
+11. What is __ init __ in Python stack overflow?
+-->The __init__ function is called a constructor, or initializer, and is automatically called 
+   when you create a new instance of a class.
+12. What is RDBMS?
+13. what is oops?
+14. programmatical differnece in python and c ?
+15. What is Lambda fuction ?
+16. Differnce in deep copy and shallow copy ?
+17. what is self in python? why is it used?
+18. what's polymorphism ?
+
+Sql--
